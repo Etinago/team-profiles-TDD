@@ -1,1 +1,1 @@
-# team-profiles-TDD
+# Team-profiles-TDD
